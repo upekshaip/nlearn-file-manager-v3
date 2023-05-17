@@ -43,7 +43,7 @@ Nlearn file manager v3
 
 ### Updating Files
 
-- To update the downloaded files, repeat Step 6 by clicking the right refresh button.
+- To update the downloaded files, click the right refresh button on dashboard.
 - The software will rescan the NLearn files and display any new or updated files below.
 
 ## Quick Guide
