@@ -21,7 +21,7 @@ Nlearn file manager v3
 ### Ignoring Courses using the JSON File
 
 - Open the software's installation directory on your computer.
-- Locate the JSON file named "ignored_courses.json" 
+- Locate the JSON file named "ignore_course.json" 
 - Open the file using a text editor or any other suitable application.
 - Inside the JSON file, you will see a list of courses.
 - To ignore a specific course, add a new course name you want to ignore.
