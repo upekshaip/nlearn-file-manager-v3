@@ -46,7 +46,21 @@ Nlearn file manager v3
 - To update the downloaded files, repeat Step 6 by clicking the right refresh button.
 - The software will rescan the NLearn files and display any new or updated files below.
 
-### Screenshots
+## Quick Guide
+
+1. The login section will appear on your screen. Enter your login credentials for your university student portal and click the "Login" button.
+2. Click the "Refresh" button to retrieve the latest data from your university student portal. The tool will automatically search for any missing files in your local repository.
+3. If you want to refresh your local repository, click the "Refresh Local" button. The tool will scan your local directory for any new or missing files and update the list accordingly.
+4. A list of missing files will be displayed on your screen. Select the files you want to download by checking the checkboxes next to them.
+5. Click the "Download" button to start the download process.
+6. Wait for the download to complete. Once the download is finished, you should have all the missing files from your university student portal on your computer.
+7. To keep track of what you downloaded, go to the "Log" section. You will see a list of all the files that have been downloaded.
+8. To clear the download logs, click the "Clear Logs" button.
+9. You can close the tool by clicking the "Exit" button.
+
+Note: In case of any errors, check your internet connection, your login credentials or contact the developer of the tool for further assistance.
+
+## Screenshots
 
 
 Developed by upekshaip
